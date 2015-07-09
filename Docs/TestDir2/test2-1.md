@@ -1,4 +1,4 @@
-[This link is internal to this document](#here-is-where-it-links-to)
+[This link is internal to this document](#here)
 
 blahblahblah
 
@@ -24,7 +24,7 @@ blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 
-<a href="#Here is where it links to">Here</a>
+<a href="#here">Here is where it links to</a>
 
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
