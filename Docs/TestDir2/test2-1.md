@@ -24,7 +24,7 @@ blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 
-<a href="#Here is where it links to"></a>
+<a href="#Here is where it links to">Here</a>
 
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
