@@ -37,7 +37,7 @@ blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 
-[Now this link is internal within another document in this repo](../TestDir3/test3-1.md)
+[Now this link is internal within another document in this repo](../TestDir3/test3-1.md#halfway-down-the-page)
 
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
 blahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
