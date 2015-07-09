@@ -3,7 +3,7 @@ site_name: Docs Test
 docs_dir: Docs
 
 pages:
--'index.md', 'Testing the documentation'
+-'index.md'
 -'TestDir1/test1-1.md'
 -'TestDir1/test1-2.md'
 -'TestDir2/test2-1.md'
